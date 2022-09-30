@@ -11,7 +11,7 @@ read -p " NODE ID 2: " node_id2
 read -p " DeviceLimit: " DeviceLimit
   [ -z "${DeviceLimit}" ] && DeviceLimit=0
   
-read -p "CertDomain: " CertDomain
+read -p " CertDomain: " CertDomain
   [ -z "${CertDomain}" ] && CertDomain="vn.speed4g.me"
   
 cd /etc/XrayR
