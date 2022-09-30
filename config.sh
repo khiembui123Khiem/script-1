@@ -1,3 +1,5 @@
+rm -rf /etc/XrayR/4gviet.crt
+rm -rf /etc/XrayR/4gviet.key
 openssl req -newkey rsa:2048 -x509 -sha256 -days 365 -nodes -out /etc/XrayR/4gviet.crt -keyout /etc/XrayR/4gviet.key -subj "/C=JP/ST=Tokyo/L=Chiyoda-ku/O=Google Trust Services LLC/CN=google.com"
 clear
 read -p " NODE ID 1: " node_id1
