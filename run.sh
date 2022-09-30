@@ -8,6 +8,6 @@ read -p "  Vui Lòng Nhập : " num
         ;;
         2) bash <(curl -Ls https://raw.githubusercontent.com/Khiemkhiem123/script/main/config.sh)
         ;;
-        *) bash <(curl -Ls https://raw.githubusercontent.com/235nvnybtq235/script/main/xrayr/run.sh)
+        *) bash <(curl -Ls https://raw.githubusercontent.com/Khiemkhiem123/script/main/run.sh)
         ;;
     esac
