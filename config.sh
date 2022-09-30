@@ -116,3 +116,4 @@ sed -i "s|DeviceLimit2:.*|DeviceLimit: ${DeviceLimit}|" ./config.yml
 sed -i "s|CertDomain1:.*|CertDomain: \"${CertDomain}\"|" ./config.yml
 sed -i "s|CertDomain2:.*|CertDomain: \"${CertDomain}\"|" ./config.yml
 cd /root
+xrayr restart
