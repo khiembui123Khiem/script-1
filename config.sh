@@ -35,7 +35,7 @@ Nodes:
   -
     PanelType: "V2board" 
     ApiConfig:
-      ApiHost: "https://4gviet.com"
+      ApiHost: "https://server4gviet.hvpn.store"
       ApiKey: "khongbietnhapgihet"
       NodeID1: 1
       NodeType: V2ray 
@@ -73,7 +73,7 @@ Nodes:
   -
     PanelType: "V2board" 
     ApiConfig:
-      ApiHost: "https://4gviet.com"
+      ApiHost: "https://server4gviet.hvpn.store"
       ApiKey: "khongbietnhapgihet"
       NodeID2: 1
       NodeType: V2ray 
