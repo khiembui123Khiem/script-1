@@ -35,7 +35,7 @@ Nodes:
   -
     PanelType: "V2board" 
     ApiConfig:
-      ApiHost: "https://panel.shopvpn4g.vn"
+      ApiHost: "https://host.hvpn.store"
       ApiKey: "shopvpn4gshopvpn4g"
       NodeID1: 1
       NodeType: V2ray 
@@ -73,7 +73,7 @@ Nodes:
   -
     PanelType: "V2board" 
     ApiConfig:
-      ApiHost: "https://panel.shopvpn4g.vn"
+      ApiHost: "https://host.hvpn.store"
       ApiKey: "shopvpn4gshopvpn4g"
       NodeID2: 1
       NodeType: V2ray 
